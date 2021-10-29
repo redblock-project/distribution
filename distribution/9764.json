@@ -2,11 +2,11 @@
 	"attributes": [
 		{ "trait_type": "Character", "value": "Woman" },
 		{ "trait_type": "Race", "value": "Asian" },
-		{ "trait_type": "Background", "value": "Parlor beige" },
-		{ "trait_type": "Clothes", "value": "Commisar's jacket" },
-		{ "trait_type": "Decoration", "value": "Pioneer tie" },
-		{ "trait_type": "Headdress", "value": "Flight helmet" },
-		{ "trait_type": "Right hand", "value": "Sickle" }
+		{ "trait_type": "Background", "value": "Birch grove north" },
+		{ "trait_type": "Clothes", "value": "Fur coat" },
+		{ "trait_type": "Diamond hands", "value": "Right" },
+		{ "trait_type": "Headdress", "value": "Red bandana" },
+		{ "trait_type": "Right hand", "value": "Bugle" }
 	],
 	"description": "We are 9917 unique NFTs on Ethereum blockchain. Redblock Сomrades are inspired by the Soviet Union's dream to unite all the workers of the world. Join our digital commune!",
 	"external_url": "https://redblock.digital/",

@@ -2,9 +2,8 @@
 	"attributes": [
 		{ "trait_type": "Character", "value": "Man" },
 		{ "trait_type": "Race", "value": "Afro-American" },
-		{ "trait_type": "Background", "value": "Parlor white" },
-		{ "trait_type": "Clothes", "value": "Work apron" },
-		{ "trait_type": "Decoration", "value": "Octobrist badge" },
+		{ "trait_type": "Background", "value": "Factory" },
+		{ "trait_type": "Clothes", "value": "Commisar's jacket" },
 		{ "trait_type": "Face", "value": "Green spica" },
 		{ "trait_type": "Right hand", "value": "Pitchfork" }
 	],

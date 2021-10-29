@@ -1,11 +1,11 @@
 {
 	"attributes": [
-		{ "trait_type": "Character", "value": "Man" },
+		{ "trait_type": "Character", "value": "Woman" },
 		{ "trait_type": "Race", "value": "Afro-American" },
-		{ "trait_type": "Background", "value": "Corn field" },
-		{ "trait_type": "Clothes", "value": "Dress suit" },
-		{ "trait_type": "Decoration", "value": "Second Suvorov badge" },
-		{ "trait_type": "Headdress", "value": "Black bandana" },
+		{ "trait_type": "Background", "value": "Field dawn" },
+		{ "trait_type": "Clothes", "value": "Commisar's jacket" },
+		{ "trait_type": "Decoration", "value": "Third Suvorov badge" },
+		{ "trait_type": "Face", "value": "Glasses" },
 		{ "trait_type": "Right hand", "value": "Kettlebell" }
 	],
 	"description": "We are 9917 unique NFTs on Ethereum blockchain. Redblock Сomrades are inspired by the Soviet Union's dream to unite all the workers of the world. Join our digital commune!",

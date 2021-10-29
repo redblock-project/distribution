@@ -477,16 +477,16 @@ void cleanUp() {
     reverse(result.begin(), result.end());
 
     for (int i = 0; i < result.size(); i++) {
-        set<pair<string, string>> &attributes = result[i].attributes;
+        set<pair<string, string>> attributes = result[i].attributes;
 
         bool left = false;
         bool right = false;
 
         if (attributes.find({"Appearance", "Legendary"}) != attributes.end()) {
             attributes.clear();
-            attributes.insert({ "Appearance", "Legendary" });
+            attributes.insert({"Appearance", "Legendary"});
         } else {
-            for (auto i : attributes) {
+            for (auto i : result[i].attributes) {
                 if (i.second.find("Diamond") != string::npos) {
                     if (i.first == "Right hand") {
                         right = true;
@@ -507,6 +507,8 @@ void cleanUp() {
                 attributes.insert({ "Diamond hands", "Right" });
             }
         }
+
+        result[i].attributes = attributes;
     }
 }
 
@@ -516,7 +518,7 @@ void distribute() {
     distributeTwo();    
     distributeThree();    
     distributeFour();    
-    distributeFive();         
+    distributeFive(); 
     distributeSix();
     distributeSeven();
 
@@ -524,7 +526,7 @@ void distribute() {
 }
 
 void print() {
-    // ofstream out("./distribution/test.json");
+    // ostream &out = cout;
 
     for (int i = 0; i < result.size(); i++) {
         Character &character = result[i];

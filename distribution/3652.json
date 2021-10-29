@@ -2,12 +2,11 @@
 	"attributes": [
 		{ "trait_type": "Character", "value": "Man" },
 		{ "trait_type": "Race", "value": "Asian" },
-		{ "trait_type": "Background", "value": "Field day" },
-		{ "trait_type": "Clothes", "value": "Dress suit" },
-		{ "trait_type": "Decoration", "value": "Octobrist badge" },
-		{ "trait_type": "Face", "value": "VR headset" },
-		{ "trait_type": "Flag", "value": "Laos" },
-		{ "trait_type": "Left hand", "value": "Chapaev" },
+		{ "trait_type": "Background", "value": "Field dawn" },
+		{ "trait_type": "Clothes", "value": "Sport suit" },
+		{ "trait_type": "Decoration", "value": "Congress badge" },
+		{ "trait_type": "Headdress", "value": "Blue peaked cap" },
+		{ "trait_type": "Left hand", "value": "Glass" },
 		{ "trait_type": "Right hand", "value": "Axe" }
 	],
 	"description": "We are 9917 unique NFTs on Ethereum blockchain. Redblock Сomrades are inspired by the Soviet Union's dream to unite all the workers of the world. Join our digital commune!",

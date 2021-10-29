@@ -1,11 +1,11 @@
 {
 	"attributes": [
 		{ "trait_type": "Character", "value": "Man" },
-		{ "trait_type": "Race", "value": "European" },
-		{ "trait_type": "Background", "value": "Field day" },
-		{ "trait_type": "Clothes", "value": "Work apron" },
-		{ "trait_type": "Decoration", "value": "VLKSM badge" },
-		{ "trait_type": "Face", "value": "Blush 1" },
+		{ "trait_type": "Race", "value": "Afro-American" },
+		{ "trait_type": "Background", "value": "Field dawn" },
+		{ "trait_type": "Clothes", "value": "Man coat" },
+		{ "trait_type": "Decoration", "value": "Laborand valor medal" },
+		{ "trait_type": "Face", "value": "Green spica" },
 		{ "trait_type": "Left hand", "value": "Beeple newspaper" },
 		{ "trait_type": "Right hand", "value": "Scythe" }
 	],

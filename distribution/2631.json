@@ -2,11 +2,11 @@
 	"attributes": [
 		{ "trait_type": "Character", "value": "Woman" },
 		{ "trait_type": "Race", "value": "Asian" },
-		{ "trait_type": "Background", "value": "Bath house" },
-		{ "trait_type": "Clothes", "value": "Woman coat" },
-		{ "trait_type": "Decoration", "value": "Red bow" },
-		{ "trait_type": "Face", "value": "Glasses" },
-		{ "trait_type": "Flag", "value": "Vietnam" },
+		{ "trait_type": "Background", "value": "Armored car" },
+		{ "trait_type": "Clothes", "value": "Fur coat" },
+		{ "trait_type": "Decoration", "value": "Pioneer badge" },
+		{ "trait_type": "Face", "value": "Earrings" },
+		{ "trait_type": "Flag", "value": "Yugoslavia" },
 		{ "trait_type": "Left hand", "value": "Nalivka" },
 		{ "trait_type": "Right hand", "value": "Space poster" }
 	],
