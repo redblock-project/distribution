@@ -1,0 +1,12 @@
+{
+  "name": "redblock-distribution",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {},
+  "author": "",
+  "license": "MIT",
+  "homepage": "https://github.com/redblock-project/distribution#readme",
+  "dependencies": {
+    "sharp": "^0.29.2"
+  }
+}
