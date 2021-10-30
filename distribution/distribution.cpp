@@ -200,7 +200,7 @@ vector <pair<pair<pair<string, string>, set<int>>, int>> face = {
 };
 
 vector <pair<pair<pair<string, string>, set<int>>, int>> decoration = {
-    {{{"Decoration", "Cheburashka olympiad badge"}, {1, 2, 3, 4}}, 7},
+    {{{"Decoration", "Bear olympiad badge"}, {1, 2, 3, 4}}, 7},
     {{{"Decoration", "Congress badge"}, {1, 2, 3, 4}}, 3},
     {{{"Decoration", "Cosmos badge"}, {1, 2, 3, 4}}, 3},
     {{{"Decoration", "Doge badge"}, {1, 2, 3, 4}}, 1},

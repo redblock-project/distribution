@@ -84,10 +84,13 @@ function getHandPath(attributes, hand) {
 
         if (
             attribute["trait_type"] == "Character" &&
-            attribute["value"] == "Bear" &&
             color == ""
         ) {
-            color = "Afro-American";
+            if (attribute["value"] == "Bear") {
+                color = "Afro-American";
+            } else if (attribute["value"] == "Muzzle") {  
+                color = "European";      
+            }
         }
 
         if (attribute["trait_type"] == "Race" && color == "") {
@@ -182,7 +185,7 @@ function compile(
         ];
 
         images = images.filter((el) => el.input != "");
-        
+
         let compositedImage = sharp(backgroundPath).composite(images);
         compositedImage.toFile(outputPath + index + ".png");
     } catch (e) {
@@ -190,7 +193,7 @@ function compile(
     }
 }
 
-for (let i = 0; i < 1000; i++) {
+for (let i = 286; i < 287; i++) {
     const fileContents = fs.readFileSync(jsonsDir + (i + 1) + ".json", "utf8");
 
     try {
