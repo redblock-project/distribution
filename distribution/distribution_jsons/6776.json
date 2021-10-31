@@ -1,15 +1,14 @@
 {
 	"attributes": [
-		{ "trait_type": "Character", "value": "Man" },
-		{ "trait_type": "Race", "value": "Asian" },
-		{ "trait_type": "Background", "value": "Field dawn" },
-		{ "trait_type": "Clothes", "value": "Joker suit Hoaken" },
-		{ "trait_type": "Decoration", "value": "Fourth olympiad badge" },
-		{ "trait_type": "Diamond hands", "value": "Left" },
-		{ "trait_type": "Flag", "value": "Hengary" },
-		{ "trait_type": "Headdress", "value": "Black bandana" },
-		{ "trait_type": "Left hand", "value": "Das kapital" },
-		{ "trait_type": "Right hand", "value": "Rifle" }
+		{ "trait_type": "Character", "value": "Woman" },
+		{ "trait_type": "Race", "value": "Afro-American" },
+		{ "trait_type": "Appearance", "value": "Adolescent" },
+		{ "trait_type": "Background", "value": "Parlor white" },
+		{ "trait_type": "Clothes", "value": "Embroidered shirt" },
+		{ "trait_type": "Decoration", "value": "Medal" },
+		{ "trait_type": "Headdress", "value": "White bandana" },
+		{ "trait_type": "Left hand", "value": "Golden das kapital" },
+		{ "trait_type": "Right hand", "value": "Bugle" }
 	],
 	"description": "We are 9917 unique NFTs on Ethereum blockchain. Redblock Сomrades are inspired by the Soviet Union's dream to unite all the workers of the world. Join our digital commune!",
 	"external_url": "https://redblock.digital/",

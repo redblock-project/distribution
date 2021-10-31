@@ -1,10 +1,9 @@
 {
 	"attributes": [
-		{ "trait_type": "Character", "value": "Woman" },
+		{ "trait_type": "Character", "value": "Man" },
 		{ "trait_type": "Race", "value": "European" },
-		{ "trait_type": "Background", "value": "Field day" },
-		{ "trait_type": "Clothes", "value": "Greatcoat" },
-		{ "trait_type": "Decoration", "value": "VLKSM badge" },
+		{ "trait_type": "Background", "value": "Birch grove north" },
+		{ "trait_type": "Clothes", "value": "Overall" },
 		{ "trait_type": "Headdress", "value": "Peakless cap" },
 		{ "trait_type": "Right hand", "value": "Balalaika" }
 	],

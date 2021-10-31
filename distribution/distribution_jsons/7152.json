@@ -1,10 +1,10 @@
 {
 	"attributes": [
-		{ "trait_type": "Character", "value": "Woman" },
-		{ "trait_type": "Race", "value": "European" },
-		{ "trait_type": "Background", "value": "Bath house" },
-		{ "trait_type": "Clothes", "value": "Sport suit" },
-		{ "trait_type": "Decoration", "value": "Cosmos badge" },
+		{ "trait_type": "Character", "value": "Man" },
+		{ "trait_type": "Race", "value": "Afro-American" },
+		{ "trait_type": "Background", "value": "Birch grove north" },
+		{ "trait_type": "Clothes", "value": "Fidenza overall" },
+		{ "trait_type": "Decoration", "value": "Medal" },
 		{ "trait_type": "Face", "value": "3D glasses" },
 		{ "trait_type": "Right hand", "value": "Space poster" }
 	],

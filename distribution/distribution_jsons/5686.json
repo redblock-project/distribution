@@ -1,14 +1,11 @@
 {
 	"attributes": [
-		{ "trait_type": "Character", "value": "Man" },
-		{ "trait_type": "Race", "value": "Afro-American" },
-		{ "trait_type": "Background", "value": "Birch grove north" },
-		{ "trait_type": "Clothes", "value": "Boy school uniform" },
-		{ "trait_type": "Decoration", "value": "Cheburashka olympiad badge" },
-		{ "trait_type": "Flag", "value": "Cuba" },
-		{ "trait_type": "Headdress", "value": "Green peaked cap" },
-		{ "trait_type": "Left hand", "value": "Glass holder" },
-		{ "trait_type": "Right hand", "value": "Atom poster" }
+		{ "trait_type": "Character", "value": "Woman" },
+		{ "trait_type": "Race", "value": "European" },
+		{ "trait_type": "Background", "value": "Corn field" },
+		{ "trait_type": "Clothes", "value": "Embroidered shirt" },
+		{ "trait_type": "Face", "value": "Yellow spica" },
+		{ "trait_type": "Left hand", "value": "White balloon" }
 	],
 	"description": "We are 9917 unique NFTs on Ethereum blockchain. Redblock Сomrades are inspired by the Soviet Union's dream to unite all the workers of the world. Join our digital commune!",
 	"external_url": "https://redblock.digital/",

@@ -1,14 +1,14 @@
 {
 	"attributes": [
 		{ "trait_type": "Character", "value": "Woman" },
-		{ "trait_type": "Race", "value": "European" },
-		{ "trait_type": "Background", "value": "Field dusk" },
-		{ "trait_type": "Clothes", "value": "Apron" },
-		{ "trait_type": "Decoration", "value": "Fourth olympiad badge" },
-		{ "trait_type": "Diamond hands", "value": "Right" },
-		{ "trait_type": "Face", "value": "Bitcoin earrings" },
-		{ "trait_type": "Left hand", "value": "Taperecorder" },
-		{ "trait_type": "Right hand", "value": "Pink gun" }
+		{ "trait_type": "Race", "value": "Asian" },
+		{ "trait_type": "Background", "value": "Cruiser Aurora" },
+		{ "trait_type": "Clothes", "value": "Woman coat" },
+		{ "trait_type": "Decoration", "value": "Vigilante badge" },
+		{ "trait_type": "Flag", "value": "Cuba" },
+		{ "trait_type": "Headdress", "value": "Flight helmet" },
+		{ "trait_type": "Left hand", "value": "Nalivka" },
+		{ "trait_type": "Right hand", "value": "Telephone" }
 	],
 	"description": "We are 9917 unique NFTs on Ethereum blockchain. Redblock Сomrades are inspired by the Soviet Union's dream to unite all the workers of the world. Join our digital commune!",
 	"external_url": "https://redblock.digital/",

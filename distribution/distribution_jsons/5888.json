@@ -1,12 +1,12 @@
 {
 	"attributes": [
 		{ "trait_type": "Character", "value": "Man" },
-		{ "trait_type": "Race", "value": "Afro-American" },
-		{ "trait_type": "Background", "value": "Parlor beige" },
-		{ "trait_type": "Clothes", "value": "Sport suit" },
-		{ "trait_type": "Decoration", "value": "VLKSM badge" },
-		{ "trait_type": "Headdress", "value": "Motorcycle helmet" },
-		{ "trait_type": "Left hand", "value": "Golden glass holder" },
+		{ "trait_type": "Race", "value": "Asian" },
+		{ "trait_type": "Background", "value": "Birch grove north" },
+		{ "trait_type": "Clothes", "value": "Dress suit" },
+		{ "trait_type": "Decoration", "value": "Medal" },
+		{ "trait_type": "Headdress", "value": "Tank helmet" },
+		{ "trait_type": "Left hand", "value": "Choi guitar" },
 		{ "trait_type": "Right hand", "value": "Trowel" }
 	],
 	"description": "We are 9917 unique NFTs on Ethereum blockchain. Redblock Сomrades are inspired by the Soviet Union's dream to unite all the workers of the world. Join our digital commune!",

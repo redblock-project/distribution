@@ -2,9 +2,13 @@
 	"attributes": [
 		{ "trait_type": "Character", "value": "Man" },
 		{ "trait_type": "Race", "value": "European" },
-		{ "trait_type": "Background", "value": "Factory" },
-		{ "trait_type": "Clothes", "value": "Commisar's jacket" },
-		{ "trait_type": "Headdress", "value": "Tank helmet" },
+		{ "trait_type": "Background", "value": "Field dawn" },
+		{ "trait_type": "Clothes", "value": "Felt cloak" },
+		{ "trait_type": "Decoration", "value": "Shiba badge" },
+		{ "trait_type": "Diamond hands", "value": "Left" },
+		{ "trait_type": "Face", "value": "VR headset" },
+		{ "trait_type": "Flag", "value": "Hengary" },
+		{ "trait_type": "Left hand", "value": "Golden das kapital" },
 		{ "trait_type": "Right hand", "value": "Pink gun" }
 	],
 	"description": "We are 9917 unique NFTs on Ethereum blockchain. Redblock Сomrades are inspired by the Soviet Union's dream to unite all the workers of the world. Join our digital commune!",

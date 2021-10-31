@@ -58,7 +58,10 @@ function getAttributePath(attributes, which) {
         let attribute = attributes[i];
 
         if (attribute["trait_type"] == which) {
-            let attr = String(attribute["value"]).replace(" ", "-").replace(" ", "-");
+            let attr = String(attribute["value"])
+                .replace(" ", "-")
+                .replace(" ", "-")
+                .replace(" ", "-");
 
             return path + attr + ".png";
         }
@@ -76,8 +79,16 @@ function getHandPath(attributes, hand) {
     for (let i = 0; i < attributes.length; i++) {
         let attribute = attributes[i];
 
-        if (String(attribute["trait_type"]).replace(" ", "-").replace(" ", "-") == hand) {
-            let attr = String(attribute["value"]).replace(" ", "-").replace(" ", "-");
+        if (
+            String(attribute["trait_type"])
+                .replace(" ", "-")
+                .replace(" ", "-")
+                .replace(" ", "-") == hand
+        ) {
+            let attr = String(attribute["value"])
+                .replace(" ", "-")
+                .replace(" ", "-")
+                .replace(" ", "-");
 
             handPath = attr + ".png";
         }
@@ -186,6 +197,8 @@ function compile(
 
         images = images.filter((el) => el.input != "");
 
+        // console.log(images);
+
         let compositedImage = sharp(backgroundPath).composite(images);
         compositedImage.toFile(outputPath + index + ".png");
     } catch (e) {
@@ -193,7 +206,7 @@ function compile(
     }
 }
 
-for (let i = 286; i < 287; i++) {
+for (let i = 0; i < 100; i++) {
     const fileContents = fs.readFileSync(jsonsDir + (i + 1) + ".json", "utf8");
 
     try {
