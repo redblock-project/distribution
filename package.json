@@ -7,6 +7,7 @@
   "license": "MIT",
   "homepage": "https://github.com/redblock-project/distribution#readme",
   "dependencies": {
+    "@pinata/sdk": "^1.1.23",
     "sharp": "^0.29.2"
   }
 }

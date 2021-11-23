@@ -2,8 +2,8 @@
 	"attributes": [
 		{ "trait_type": "Character", "value": "Man" },
 		{ "trait_type": "Race", "value": "European" },
-		{ "trait_type": "Background", "value": "Birch grove north" },
-		{ "trait_type": "Clothes", "value": "Dress suit" },
+		{ "trait_type": "Background", "value": "Factory" },
+		{ "trait_type": "Clothes", "value": "Boy school uniform" },
 		{ "trait_type": "Face", "value": "Blush 2" },
 		{ "trait_type": "Left hand", "value": "Glass holder" }
 	],

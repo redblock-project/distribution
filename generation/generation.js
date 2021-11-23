@@ -179,9 +179,6 @@ function compile(
                 input: clothesPath,
             },
             {
-                input: facePath,
-            },
-            {
                 input: decorationPath,
             },
             {
@@ -192,6 +189,9 @@ function compile(
             },
             {
                 input: headdressPath,
+            },
+            {
+                input: facePath,
             },
         ];
 
@@ -206,7 +206,7 @@ function compile(
     }
 }
 
-for (let i = 0; i < 100; i++) {
+for (let i = 0; i < 9917; i++) {
     const fileContents = fs.readFileSync(jsonsDir + (i + 1) + ".json", "utf8");
 
     try {

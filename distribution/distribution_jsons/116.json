@@ -1,11 +1,11 @@
 {
 	"attributes": [
 		{ "trait_type": "Character", "value": "Man" },
-		{ "trait_type": "Race", "value": "European" },
-		{ "trait_type": "Background", "value": "Field dawn" },
-		{ "trait_type": "Clothes", "value": "Sport suit" },
-		{ "trait_type": "Decoration", "value": "Moon badge" },
-		{ "trait_type": "Face", "value": "Yellow spica" },
+		{ "trait_type": "Race", "value": "Asian" },
+		{ "trait_type": "Appearance", "value": "Adolescent" },
+		{ "trait_type": "Background", "value": "Space" },
+		{ "trait_type": "Clothes", "value": "Joker suit Hoaken" },
+		{ "trait_type": "Face", "value": "Blush 1" },
 		{ "trait_type": "Left hand", "value": "Russian sausage" }
 	],
 	"description": "We are 9917 unique NFTs on Ethereum blockchain. Redblock Сomrades are inspired by the Soviet Union's dream to unite all the workers of the world. Join our digital commune!",

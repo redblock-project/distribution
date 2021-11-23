@@ -1,12 +1,12 @@
 {
 	"attributes": [
-		{ "trait_type": "Character", "value": "Woman" },
+		{ "trait_type": "Character", "value": "Man" },
 		{ "trait_type": "Race", "value": "Afro-American" },
-		{ "trait_type": "Background", "value": "Field dawn" },
-		{ "trait_type": "Clothes", "value": "Embroidered shirt" },
-		{ "trait_type": "Decoration", "value": "Bear olympiad badge" },
-		{ "trait_type": "Face", "value": "Green spica" },
-		{ "trait_type": "Left hand", "value": "Guitar" },
+		{ "trait_type": "Background", "value": "Parlor beige" },
+		{ "trait_type": "Clothes", "value": "Dress suit" },
+		{ "trait_type": "Decoration", "value": "Shiba badge" },
+		{ "trait_type": "Headdress", "value": "Red bandana" },
+		{ "trait_type": "Left hand", "value": "Mayakovsky" },
 		{ "trait_type": "Right hand", "value": "Pink gun" }
 	],
 	"description": "We are 9917 unique NFTs on Ethereum blockchain. Redblock Сomrades are inspired by the Soviet Union's dream to unite all the workers of the world. Join our digital commune!",

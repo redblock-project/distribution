@@ -2,11 +2,11 @@
 	"attributes": [
 		{ "trait_type": "Character", "value": "Woman" },
 		{ "trait_type": "Race", "value": "Asian" },
-		{ "trait_type": "Background", "value": "Kremlin" },
-		{ "trait_type": "Clothes", "value": "Fur coat" },
-		{ "trait_type": "Decoration", "value": "Second Suvorov badge" },
-		{ "trait_type": "Face", "value": "Blush 2" },
-		{ "trait_type": "Right hand", "value": "Trowel" }
+		{ "trait_type": "Background", "value": "Birch grove south" },
+		{ "trait_type": "Clothes", "value": "Sport suit" },
+		{ "trait_type": "Decoration", "value": "Red bow" },
+		{ "trait_type": "Headdress", "value": "Tank helmet" },
+		{ "trait_type": "Right hand", "value": "Iphone" }
 	],
 	"description": "We are 9917 unique NFTs on Ethereum blockchain. Redblock Сomrades are inspired by the Soviet Union's dream to unite all the workers of the world. Join our digital commune!",
 	"external_url": "https://redblock.digital/",

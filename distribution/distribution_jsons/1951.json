@@ -2,9 +2,10 @@
 	"attributes": [
 		{ "trait_type": "Character", "value": "Man" },
 		{ "trait_type": "Race", "value": "Afro-American" },
-		{ "trait_type": "Background", "value": "Parlor beige" },
-		{ "trait_type": "Clothes", "value": "Tunic" },
-		{ "trait_type": "Face", "value": "Cigarette" },
+		{ "trait_type": "Background", "value": "Cruiser Aurora" },
+		{ "trait_type": "Clothes", "value": "Overall" },
+		{ "trait_type": "Decoration", "value": "Octobrist badge" },
+		{ "trait_type": "Headdress", "value": "Papakha" },
 		{ "trait_type": "Right hand", "value": "Axe" }
 	],
 	"description": "We are 9917 unique NFTs on Ethereum blockchain. Redblock Сomrades are inspired by the Soviet Union's dream to unite all the workers of the world. Join our digital commune!",

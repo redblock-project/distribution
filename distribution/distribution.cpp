@@ -64,6 +64,7 @@ const int SIX = 2092;
 const int SEVEN = 891;
 
 vector <pair<pair<pair<string, string>, set<int>>, int>> clothes = {
+    {{{"Clothes", "Admiral coat"}, {1, 2, 3, 4}}, 8},
     {{{"Clothes", "Apron"}, {2, 4}}, 1},
     {{{"Clothes", "Boy school uniform"}, {1, 3, 4}}, 3},
     {{{"Clothes", "Commisar's jacket"}, {1, 2, 3, 4}}, 5},
@@ -71,12 +72,13 @@ vector <pair<pair<pair<string, string>, set<int>>, int>> clothes = {
     {{{"Clothes", "Embroidered shirt"}, {2}}, 4},
     {{{"Clothes", "Felt cloak"}, {1, 2, 3, 4}}, 5},
     {{{"Clothes", "Fidenza overall"}, {1, 2, 3, 4}}, 9},
-    {{{"Clothes", "Fur coat"}, {2}}, 5},
+    {{{"Clothes", "Fur coat"}, {2}}, 5},    
     {{{"Clothes", "Girl school uniform"}, {2, 3}}, 3},
     {{{"Clothes", "Greatcoat"}, {1, 2, 3, 4}}, 5},
     {{{"Clothes", "Joker suit Hoaken"}, {1, 2, 3, 4}}, 7},
     {{{"Clothes", "Joker suit Ledger"}, {1, 2, 3, 4}}, 7},
     {{{"Clothes", "Man coat"}, {1, 3, 4}}, 3},
+    {{{"Clothes", "Militia general coat"}, {1, 2, 3, 4}}, 8},
     {{{"Clothes", "Overall"}, {1, 2, 3, 4}}, 1},
     {{{"Clothes", "Sport suit"}, {1, 2, 3, 4}}, 1},
     {{{"Clothes", "Tunic"}, {1, 3, 4}}, 1},
@@ -165,14 +167,16 @@ vector <pair<pair<pair<string, string>, set<int>>, int>> leftHand = {
 };
 
 vector <pair<pair<pair<string, string>, set<int>>, int>> headdress = {
+    {{{"Headdress", "Admiral cap"}, {1, 2, 3, 4}}, 8},
     {{{"Headdress", "Batman ushanka"}, {3, 4}}, 6},
     {{{"Headdress", "Black bandana"}, {1, 2, 3, 4}}, 1},
     {{{"Headdress", "Blue peaked cap"}, {1, 2, 3, 4}}, 3},
     {{{"Headdress", "Budenovka"}, {1, 2, 3, 4}}, 3},
     {{{"Headdress", "Dandelion wreath"}, {1, 2, 3, 4}}, 1},
-    {{{"Headdress", "Flight helmet"}, {1, 2, 3, 4}}, 3},
+    {{{"Headdress", "Flight helmet"}, {1, 2, 3, 4}}, 3},    
     {{{"Headdress", "Green peaked cap"}, {1, 2, 3, 4}}, 3},
     {{{"Headdress", "Lenin's cap"}, {1, 2, 3, 4}}, 8},
+    {{{"Headdress", "Militia general cap"}, {1, 2, 3, 4}}, 8},
     {{{"Headdress", "Motorcycle helmet"}, {1, 2, 3, 4}}, 3},
     {{{"Headdress", "Papakha"}, {1, 2, 4}}, 6},
     {{{"Headdress", "Peakless cap"}, {1, 2, 3, 4}}, 5},
@@ -262,6 +266,7 @@ vector <pair<pair<pair<string, string>, set<int>>, int>> background = {
     {{{"Background", "Kremlin"}, {1, 2, 3, 4}}, 8},
     {{{"Background", "Parlor beige"}, {1, 2, 3, 4}}, 2},
     {{{"Background", "Parlor white"}, {1, 2, 3, 4}}, 2},
+    {{{"Background", "Space"}, {1, 2, 3, 4}}, 7},
 };
 
 int randomNum(int left, int right) {

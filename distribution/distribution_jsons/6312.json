@@ -1,10 +1,10 @@
 {
 	"attributes": [
 		{ "trait_type": "Character", "value": "Man" },
-		{ "trait_type": "Race", "value": "Afro-American" },
-		{ "trait_type": "Background", "value": "Corn field" },
-		{ "trait_type": "Clothes", "value": "Commisar's jacket" },
-		{ "trait_type": "Decoration", "value": "Medal" },
+		{ "trait_type": "Race", "value": "European" },
+		{ "trait_type": "Background", "value": "Parlor white" },
+		{ "trait_type": "Clothes", "value": "Boy school uniform" },
+		{ "trait_type": "Decoration", "value": "Red bow" },
 		{ "trait_type": "Diamond hands", "value": "Right" },
 		{ "trait_type": "Headdress", "value": "Red bandana" },
 		{ "trait_type": "Right hand", "value": "PPSh" }
